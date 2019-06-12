@@ -208,6 +208,9 @@ img{
 #keyvisual{
 	width:100%;
 }
+#keyvisual .main01 video {
+	width: 100%;
+}
 #keyvisual .main02{
 	position:relative;
 	width:100%;
